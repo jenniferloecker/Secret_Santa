@@ -1,0 +1,24 @@
+{
+  "families": [
+    {
+      "last_name": "Loecker",
+      "family_id": 0,
+      "members": ["Don", "Denise"]
+    },
+    {
+      "name": "Wilson",
+      "family_id": 1,
+      "members": ["Kim", "Anthony", "Avery", "Luke"]
+    },
+    {
+      "name": "Loecker",
+      "family_id": 2,
+      "members": ["Jim", "Jen", "Elyse", "Cassidi"]
+    },
+    {
+      "name": "Svoboda",
+      "family_id": 3,
+      "members": ["Sarah", "Jordan", "Emery", "Isla"]
+    }
+  ]
+}
